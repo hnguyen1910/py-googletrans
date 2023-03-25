@@ -1,4 +1,4 @@
-Googletrans
+Customized Googletrans
 ===========
 
 |GitHub license| |travis status| |Documentation Status| |PyPI version|
